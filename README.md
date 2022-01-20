@@ -1,5 +1,9 @@
 # Launch Fast API using Docker
 
+## Requirements
+
+1. Fast API
+
 ## Usage
 
 Develop and push your repo into you docker hub account.
