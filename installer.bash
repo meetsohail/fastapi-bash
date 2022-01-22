@@ -19,5 +19,5 @@ sudo apt install docker-ce -y
 sudo apt install docker-ce-cli containerd.io
 
 docker login
-docker pull bestiumpro/playstore-api:latest
+docker pull account_name/repo_name:latest
 docker run -p 80:8000 --detach account_name/repo_name
